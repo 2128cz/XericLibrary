@@ -1,0 +1,10 @@
+{
+    "name": "Lrss3.XericLibrary.Editor",
+    "references": [
+      "Lrss3.XericLibrary"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

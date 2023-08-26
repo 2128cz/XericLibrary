@@ -1,0 +1,11 @@
+{
+    "name": "Lrss3.XericLibrary.Tests",
+    "references": [
+        "Lrss3.XericLibrary"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

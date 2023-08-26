@@ -1,0 +1,14 @@
+{
+    "name": "Lrss3.XericLibrary.Editor.Tests",
+    "references": [
+        "Lrss3.XericLibrary.Editor",
+        "Lrss3.XericLibrary"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
